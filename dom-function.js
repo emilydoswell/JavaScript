@@ -15,7 +15,3 @@ domElement.style.background = `rgb(${r}, ${g}, ${b})`;
 }
 
 export { toggleHiddenElement, changeToFunkyColor };
-
-// add lines
-// add lines
-// add lines
