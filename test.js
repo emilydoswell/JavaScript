@@ -105,3 +105,5 @@ const displaySuggestions = (event) => {
 }
 
 submit.addEventListener('click', displaySuggestions);
+
+const url = https://api.datamuse.com/words?
