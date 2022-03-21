@@ -83,6 +83,7 @@ setTimeout(() => {
 console.log('Second message!');
 
 // Information to reach API
+// AJAX request using XHR object. Making a GET request to the datamuse API to search for words that rhyme. 
 
 
 // Selecting page elements
