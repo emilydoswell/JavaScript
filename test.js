@@ -179,3 +179,5 @@ const changeButton = () => {
 
 // Listen for click on button
 jsonButton.addEventListener('click', generateJson);
+
+// add the new lines
