@@ -176,6 +176,3 @@ const changeButton = () => {
   const newText = Math.floor(Math.random() * 7);
   jsonButton.innerHTML = `${collection[newText]}!`;
 };
-
-// Listen for click on button
-jsonButton.addEventListener('click', generateJson);
